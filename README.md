@@ -5,7 +5,8 @@ A robust Store Inventory & Analytics Management system designed for textile reta
 ---
 
 ## 📁 Project Resources / Proje Kaynakları
-* 📄 **[View Source Code (PDF)](/Clothing-And-Textile-Inventory-Tracking-System.pdf)** - Click to review the complete C# implementation and SQL scripts.
+* 📄 **[View Source Code (PDF)](/Clothing-And-Textile-Inventory-Tracking-System.pdf)** - Click to review the complete C# implementation and architecture.
+* 🗄️ **[View Database Scripts (SQL)](/Textile-Inventory-Tracker.sql)** - Click to review the database schema and queries.
 * 🎬 **[Watch Demo Video (Google Drive)](https://drive.google.com/file/d/188ZpHmWhvLnehEG4IVDX6YDqHX6XC4cX/view)** - Click to watch the system walk-through with subtitles.
 
 ---
