@@ -31,3 +31,40 @@ To showcase full-system architecture and future scalability, the interface inclu
 * **Language:** C# (.NET Framework / Windows Forms)
 * **Database:** Microsoft SQL Server
 * **Architecture:** Relational Database Design with optimized SQL querying
+
+
+---
+
+# Tekstil Envanter Takip Sistemi 
+
+**C#** ve **SQL Server** kullanılarak tekstil perakende ortamları için geliştirilmiş, güçlü bir Mağaza Envanter ve Analiz Yönetim sistemidir. Bu proje; günlük mağaza operasyonlarını optimize eder, şubeler arası lojistiği kolaylaştırır ve yöneticilere kritik satış performansı analizleri sunar.
+
+---
+
+## 📁 Proje Kaynakları
+* 📄 **[Kaynak Kodları İncele (PDF)](/Giyim-Ve-Tekstil-Stok-Takip-Sistemi.pdf)** - C# uygulamasının ve mimari yapının tamamını incelemek için tıklayın.
+* 🗄️ **[Veritabanı Kodlarını İncele (SQL)](/Textile-Inventory-Tracker.sql)** - Veritabanı şemasını ve optimize edilmiş SQL sorgularını incelemek için tıklayın.
+* 🎬 **[Demo Videosunu İzle (Google Drive)](https://drive.google.com/file/d/1h6-Uv7WJ-Z3Yb5DXvsAlXlRkKBVqeZLR/view)** - Altyazılı sistem turunu ve arayüz tanıtımını izlemek için tıklayın.
+
+---
+
+## 🚀 Öne Çıkan Özellikler
+
+### 🛒 Mağaza İşlemleri ve Analiz (Dinamik Modüller)
+* **Ürün Performans Analizi:** Detaylı veri tabloları ile eşleştirilmiş dinamik çubuk grafikler kullanarak satış hızını ve envanter trendlerini görüntüler.
+* **Mağazalar Arası Stok Sorgulama:** Personelin ürün kodlarını anında aramasına, diğer şubelerdeki stok durumunu görmesine, şubeler arası mesafe metriklerini ($km$) kontrol etmesine ve transfer taleplerini yönlendirmesine olanak tanır.
+* **Varyant ve Envanter Yönetimi:** Müşterilere anında yardımcı olmak için ürünleri renk varyantlarına ve beden/stok seviyelerine göre filtreleyen hızlı arama mekanizması.
+
+### 📊 Planlanan Özellikler (Arayüz Taslakları / Çalışmaları)
+Sistem mimarisinin tamamını ve gelecekteki ölçeklenebilirliğini göstermek amacıyla arayüz, geliştirilmesi planlanan şu modüller için tamamen tasarlanmış taslak düzenler içerir:
+* **Mağaza İçi Konum Paneli:** Personeli belirli reyon konumlarına (örn. A5) ve depo güncelleme kayıtlarına hızlıca yönlendirmek amacıyla, bulundu/bulunamadı doğrulama mantığı için tasarlanmıştır.
+* **İK ve Personel Yönetimi:** Çalışan profillerini sorgulamak, dahili rolleri güncellemek ve vardiya etkinlik kayıtlarını izlemek için planlanan arayüz taslağı.
+* **Yönetici Rapor Oluşturma:** Format seçimleri (Excel/PDF çıktıları) ile geçmiş raporları (günlük, haftalık, aylık) oluşturmak için tasarlanan arayüz şablonları.
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+* **Programlama Dili:** C# (.NET Framework / Windows Forms)
+* **Veritabanı:** Microsoft SQL Server
+* **Mimari:** Optimize edilmiş SQL sorguları ile İlişkisel Veritabanı Tasarımı
