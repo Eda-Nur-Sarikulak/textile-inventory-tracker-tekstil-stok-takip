@@ -2,7 +2,7 @@
 
 A robust Store Inventory & Analytics Management system designed for textile retail environments, built using **C#** and **SQL Server**. This project optimizes daily store operations, streamlines inter-branch logistics, and provides managers with critical sales performance insights.
 
----
+
 
 ## 📁 Project Resources / Proje Kaynakları
 * 📄 **[View Source Code (PDF)](/Clothing-And-Textile-Inventory-Tracking-System.pdf)** - Click to review the complete C# implementation and architecture.
