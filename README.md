@@ -9,7 +9,7 @@ A robust Store Inventory & Analytics Management system designed for textile reta
 * 🗄️ **[View Database Scripts (SQL)](/Textile-Inventory-Tracker.sql)** - Click to review the database schema and queries.
 * 🎬 **[Watch Demo Video (Google Drive)](https://drive.google.com/file/d/188ZpHmWhvLnehEG4IVDX6YDqHX6XC4cX/view)** - Click to watch the system walk-through with subtitles.
 
----
+
 
 ## 🚀 Key Features
 
@@ -24,7 +24,7 @@ To showcase full-system architecture and future scalability, the interface inclu
 * **HR & Staff Management:** Planned UI for querying employee profiles, updating internal roles, and monitoring shift activity logs.
 * **Executive Document Generation:** Layouts for generating historical reports (daily, weekly, monthly) with format selections (Excel/PDF exports).
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -39,14 +39,14 @@ To showcase full-system architecture and future scalability, the interface inclu
 
 **C#** ve **SQL Server** kullanılarak tekstil perakende ortamları için geliştirilmiş, güçlü bir Mağaza Envanter ve Analiz Yönetim sistemidir. Bu proje; günlük mağaza operasyonlarını optimize eder, şubeler arası lojistiği kolaylaştırır ve yöneticilere kritik satış performansı analizleri sunar.
 
----
+
 
 ## 📁 Proje Kaynakları
 * 📄 **[Kaynak Kodları İncele (PDF)](/Giyim-Ve-Tekstil-Stok-Takip-Sistemi.pdf)** - C# uygulamasının ve mimari yapının tamamını incelemek için tıklayın.
 * 🗄️ **[Veritabanı Kodlarını İncele (SQL)](/Textile-Inventory-Tracker.sql)** - Veritabanı şemasını ve optimize edilmiş SQL sorgularını incelemek için tıklayın.
 * 🎬 **[Demo Videosunu İzle (Google Drive)](https://drive.google.com/file/d/1h6-Uv7WJ-Z3Yb5DXvsAlXlRkKBVqeZLR/view)** - Altyazılı sistem turunu ve arayüz tanıtımını izlemek için tıklayın.
 
----
+
 
 ## 🚀 Öne Çıkan Özellikler
 
@@ -61,7 +61,7 @@ Sistem mimarisinin tamamını ve gelecekteki ölçeklenebilirliğini göstermek 
 * **İK ve Personel Yönetimi:** Çalışan profillerini sorgulamak, dahili rolleri güncellemek ve vardiya etkinlik kayıtlarını izlemek için planlanan arayüz taslağı.
 * **Yönetici Rapor Oluşturma:** Format seçimleri (Excel/PDF çıktıları) ile geçmiş raporları (günlük, haftalık, aylık) oluşturmak için tasarlanan arayüz şablonları.
 
----
+
 
 ## 🛠️ Kullanılan Teknolojiler
 
